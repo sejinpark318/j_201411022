@@ -15,6 +15,3 @@ class BrazilCoffee{
   System.out.println("brewing..."+origin);
   }
 }
-BrazilCoffee brazil=new BrazilCoffee("Brazil");
-brazil.roast()
-->roastin...Brazil
