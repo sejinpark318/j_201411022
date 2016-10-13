@@ -7,7 +7,3 @@ class Person{
   return weight;
   }
 }
-
-Person me=new Person();
-me.setweight((float)100.0)
-me.getweight()
