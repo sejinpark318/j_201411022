@@ -1,4 +1,4 @@
-public class CreateArray{
+public class Numbers{
     public void sumList(int[] list){
         int sum =0;
         for(int i =0; i<list.length; i++){
