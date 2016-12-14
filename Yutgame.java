@@ -11,6 +11,7 @@ public class Yutgame extends JFrame implements ActionListener{
     static Icon smallredicon = new ImageIcon("c:/Users/park/Code/201411022/j/src/com/sd/game/smallcircle_red.gif");
     static Icon bigredicon = new ImageIcon("c:/Users/park/Code/201411022/j/src/com/sd/game/bigcircle_red.gif");
     static Icon smallblueicon = new ImageIcon("c:/Users/park/Code/201411022/j/src/com/sd/game/smallcircle_blue.gif");
+    static Icon smallblackicon = new ImageIcon("c:/Users/park/Code/201411022/j/src/com/sd/game/smallcircle_black.gif");
     static Icon bigblueicon = new ImageIcon("c:/Users/park/Code/201411022/j/src/com/sd/game/bigcircle_blue.gif");
     static Icon bigicon = new ImageIcon("c:/Users/park/Code/201411022/j/src/com/sd/game/bigcircle.gif");
     
